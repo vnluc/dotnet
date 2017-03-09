@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ptt_data>
+  <customers>
+    <customer>MBB</customer>
+  </customers>
+  <tasks>
+    <task>Kaspersky</task>
+    <task>Track2 with cardless</task>
+  </tasks>
+  <time_logs>
+    <day date="4/1/2016">
+      <log customer="MBB" task="Kaspersky" start="10:04 AM" stop="10:04 AM" billable="True">
+      </log>
+      <log customer="MBB" task="Track2 with cardless" start="10:05 AM" stop="10:06 AM" billable="True">
+      </log>
+    </day>
+  </time_logs>
+</ptt_data>

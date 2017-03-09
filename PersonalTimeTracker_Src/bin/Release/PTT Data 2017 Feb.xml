@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ptt_data>
+  <customers>
+    <customer>CPB</customer>
+    <customer>TPB</customer>
+    <customer>BOC</customer>
+    <customer>BSM</customer>
+    <customer>HKL</customer>
+  </customers>
+  <tasks>
+    <task>scenario</task>
+    <task>Testing</task>
+    <task>Onsite</task>
+    <task>EMV</task>
+  </tasks>
+  <time_logs>
+    <day date="2/20/2017">
+      <log customer="BOC" task="scenario" start="8:24 AM" stop="10:11 AM" billable="True">
+      </log>
+      <log customer="TPB" task="EMV" start="10:11 AM" stop="6:00 PM" billable="True">
+      </log>
+    </day>
+    <day date="2/21/2017">
+      <log customer="HKL" task="scenario" start="9:15 AM" stop="12:15 PM" billable="True">
+      </log>
+    </day>
+  </time_logs>
+</ptt_data>

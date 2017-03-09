@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ptt_data>
+  <customers>
+    <customer>CBB</customer>
+    <customer>CPB</customer>
+    <customer>TPB</customer>
+    <customer>BOC</customer>
+    <customer>BSM</customer>
+    <customer>HKL</customer>
+    <customer>ACL</customer>
+    <customer>AMRET</customer>
+    <customer>BPC Internal</customer>
+  </customers>
+  <tasks>
+    <task>scenario</task>
+    <task>Testing</task>
+    <task>Onsite</task>
+    <task>EMV</task>
+  </tasks>
+  <time_logs>
+    <day date="3/1/2017">
+      <log customer="CPB" task="scenario" start="9:00 AM" stop="11:00 AM" billable="True">
+      </log>
+      <log customer="ACL" task="scenario" start="11:00 AM" stop="11:14 AM" billable="True">
+      </log>
+      <log customer="AMRET" task="scenario" start="11:15 AM" stop="12:14 PM" billable="True">
+      </log>
+      <log customer="AMRET" task="scenario" start="1:30 PM" stop="4:25 PM" billable="True">
+      </log>
+      <log customer="CPB" task="scenario" start="4:25 PM" stop="4:26 PM" billable="True">
+      </log>
+      <log customer="CBB" task="scenario" start="4:26 PM" stop="5:36 PM" billable="True">
+      </log>
+      <log customer="BOC" task="scenario" start="5:41 PM" stop="5:42 PM" interruptions="00:00:10.4406982" billable="True">
+      </log>
+    </day>
+    <day date="3/2/2017">
+      <log customer="CPB" task="scenario" start="9:18 AM" stop="10:16 AM" billable="True">
+      </log>
+      <log customer="ACL" task="scenario" start="10:16 AM" stop="10:49 AM" billable="True">
+      </log>
+      <log customer="CPB" task="scenario" start="10:49 AM" stop="11:18 AM" billable="True">
+      </log>
+      <log customer="ACL" task="scenario" start="11:18 AM" stop="12:17 PM" interruptions="00:04:09.6403421" billable="True">
+      </log>
+      <log customer="AMRET" task="scenario" start="2:00 PM" stop="4:00 PM" billable="True">
+      </log>
+      <log customer="BSM" task="scenario" start="4:00 PM" stop="6:10 PM" billable="True">
+      </log>
+    </day>
+    <day date="3/3/2017">
+      <log customer="BOC" task="scenario" start="8:50 AM" stop="9:09 AM" billable="True">
+      </log>
+      <log customer="ACL" task="scenario" start="9:10 AM" stop="9:30 AM" billable="True">
+      </log>
+      <log customer="CPB" task="scenario" start="9:30 AM" stop="12:13 PM" billable="True">
+      </log>
+      <log customer="BSM" task="scenario" start="1:38 PM" stop="3:57 PM" billable="True">
+      </log>
+      <log customer="AMRET" task="scenario" start="4:15 PM" stop="6:08 PM" billable="True">
+      </log>
+    </day>
+    <day date="3/6/2017">
+      <log customer="TPB" task="scenario" start="9:00 AM" stop="12:00 PM" billable="True">
+      </log>
+      <log customer="TPB" task="scenario" start="1:30 PM" stop="4:00 PM" billable="True">
+      </log>
+      <log customer="BSM" task="scenario" start="4:00 PM" stop="6:30 PM" billable="True">
+      </log>
+    </day>
+    <day date="3/7/2017">
+      <log customer="BSM" task="scenario" start="9:00 AM" stop="4:11 PM" interruptions="01:15:45.1044789" billable="True">
+      </log>
+      <log customer="ACL" task="scenario" start="4:11 PM" stop="4:39 PM" billable="True">
+      </log>
+      <log customer="BPC Internal" task="scenario" start="4:39 PM" stop="5:01 PM" billable="True">
+      </log>
+    </day>
+  </time_logs>
+</ptt_data>
